@@ -1,9 +1,8 @@
 {
-  "id": "heromc",
+  "id": "heromcita",
   "name": "HeroMC",
   "description": "Benvenuto su HeroMC! Entra a giocare con noi.",
   "addresses": [
-    "heromc.eu",
     "play.heromc.eu"
   ],
   "primaryColor": "#ff0000",
