@@ -1,0 +1,18 @@
+{
+  "id": "heromc",
+  "name": "HeroMC",
+  "description": "Benvenuto su HeroMC! Entra a giocare con noi.",
+  "addresses": [
+    "heromc.eu",
+    "play.heromc.eu"
+  ],
+  "primaryColor": "#ff0000",
+  "secondaryColor": "#ffffff",
+  "primaryRegion": "EU",
+  "regions": [
+    "EU"
+  ],
+  "socials": {
+    "discord": "https://discord.gg/heromcita"
+  }
+}
